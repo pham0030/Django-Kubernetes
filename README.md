@@ -85,4 +85,4 @@ pip install -r web/requirements.txt
 ```
 This will ensure your Django project is ready to be used locally.
 
-UPDATE 2023
+UPDATE 2023 SIGNED with GPG
